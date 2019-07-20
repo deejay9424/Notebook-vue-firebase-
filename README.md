@@ -39,4 +39,4 @@ It can add/update/delete/read pages of a notebook.
 
 Tutorial Can be found at https://sabe.io/tutorials/building-note-taking-app-vue-js-firebase
 
-Demo can be found at
+Demo can be found at https://notebook-bdf97.firebaseapp.com/
